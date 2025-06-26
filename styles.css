@@ -18,7 +18,7 @@
   padding: 0;
   box-sizing: border-box;
   color: var(--fg);
-  font-family: var(--fnt) !important;
+  font-family: var(--fnt);
   transition: 1s;
 }
 body {
